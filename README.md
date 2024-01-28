@@ -10,10 +10,10 @@ Based on their evaluation metrics, a repository to show Topsis rankings and scor
 
 ## **2. Input and Output**
 <p>Input</p>
-<img src="results_img.PNG" width="70%" height="60%">
+<img src="results_img.png" width="70%" height="60%">
 
 <p>Output</p>
-<img src="topsis_img.PNG" width="100%" height="80%">
+<img src="topsis_img.png" width="100%" height="80%">
 
 
 ## **3. Evaluation Metrics**
@@ -32,4 +32,4 @@ Based on their evaluation metrics, a repository to show Topsis rankings and scor
 
 
 ## **5. Result**
-<img src="img1.PNG" width="100%" height="100%">
+<img src="img1.png" width="100%" height="100%">
